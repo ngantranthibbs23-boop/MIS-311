@@ -30,10 +30,12 @@ Descriptive statistics were calculated for four numerical variables: Age, Salary
 ### Insight 1: Average Salary by Department
 
 The IT department has the highest average salary at 5,838.17, followed by HR at 5,556.81. Sales has the lowest average salary at 5,476.44. However, the differences between departments are relatively small, suggesting that average salaries are fairly similar across the three departments.
+![Average Salary by Department](Average of salary.png)
 
 ### Insight 2: Employee Status Distribution
 
 The dataset contains 101 inactive employees (50.75%) and 98 active employees (49.25%). The difference is very small, indicating that the number of active and inactive employees is almost evenly distributed. This finding provides an overview of the workforce status in the organization.
+![Employee Status Distribution](Employee Status Distribution.png) 
 
 ## 5. Tools Used
 
